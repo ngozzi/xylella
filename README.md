@@ -4,3 +4,6 @@ Xylella Fastidiosa is a Gram-negative bacterium belonging to Xylella genus, that
 This and the presence of a suitable vector for the bacterium in Italy had led to one of the most dramatic plant diseases ever registered in Europe. The fragmentary knowledge about the disease makes extremely difficult to develop an efficient cure against the proliferation of Xylella bacterium or against its vectors, so the strategies developed so far have as purpose to contain the disease by isolating the infected areas. 
 
 In this work we used a Multi Agent System approach to replicate the spreading of the disease, by modeling the infection process that takes place when an infected insect feeds itself from an olive tree, and the cutting procedures that should turn the olive grove into an adverse environment for spittlebugs to live in. Furthermore we analyze results from a network perspective: through this approach we try to understand the underlying structure of the epidemic process and to propose targeted strategies.
+
+## Notes 
+The model has been realized using the software ([GAMA](https://www.google.com))
