@@ -1,6 +1,6 @@
 # A Xylella diffusion MAS model
 
-Developed with Elisa Fasanelli <elisa@fasanelli.it> and Sarah Perrone
+### Developed with Elisa Fasanelli (<elisa@fasanelli.it>) and Sarah Perrone (<sarah.perrone@hotmail.it>)
 
 Xylella Fastidiosa is a Gram-negative bacterium belonging to Xylella genus, that colonizes the xylem vessels of its host. It is known wolrdwide to be the responsible for the spreading of a plant disease with large impact on the economy of the countries where outbreaks take place. In Europe it is a quarantine bacterium since 1992, but the presence of this species was not confirmed until 2008, when olive groves in the Apulia region in South Italy, have started to be affected by the so called Olive Quick Decline Syndrome (QODS). One of the most reliable theory about the introduction of Xylella in Italy is that the bacterium was imported during commercial exchanges of infected and likely asymptomatic exotic plants. 
 This and the presence of a suitable vector for the bacterium in Italy had led to one of the most dramatic plant diseases ever registered in Europe. The fragmentary knowledge about the disease makes extremely difficult to develop an efficient cure against the proliferation of Xylella bacterium or against its vectors, so the strategies developed so far have as purpose to contain the disease by isolating the infected areas. 
