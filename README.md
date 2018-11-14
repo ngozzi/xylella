@@ -8,4 +8,4 @@ This and the presence of a suitable vector for the bacterium in Italy had led to
 In this work we used a Multi Agent System approach to replicate the spreading of the disease, by modeling the infection process that takes place when an infected insect feeds itself from an olive tree, and the cutting procedures that should turn the olive grove into an adverse environment for spittlebugs to live in. Furthermore we analyze results from a network perspective: through this approach we try to understand the underlying structure of the epidemic process and to propose targeted strategies.
 
 ## Notes 
-The model has been realized using the software [GAMA](https://gama-platform.github.io/)
+The model has been realized using the software [GAMA](https://gama-platform.github.io/). To run the simulation one musts include the folder models and includes in a GAMA project.
